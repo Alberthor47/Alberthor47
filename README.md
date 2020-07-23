@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Alberto Camarena</h1>
-<h3 align="center">Human not dancer | Engineer | Poet | Athlete | Dreamer | Jedi </br>A passionate abaut technology, Fullsatck & mechatronics student</h3>
+<h3 align="center">Human not dancer | Engineer | Poet | Athlete | Dreamer | Jedi </br>A passionate about technology, Fullsatck & mechatronics student</h3>
 
 <br />
 <p align="center">Below you will find some of my work, I hope you enjoy it.</p>
@@ -8,7 +8,7 @@
 
 <h4 align="left">💬  You can ask me anything, I'll try to answer</h4>
 
-<h4 align="left">💅  Some of my strongest skil are...</h4>
+<h4 align="left">💅  Some of my strongest skills are...</h4>
 <p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
