@@ -25,21 +25,15 @@ I'm a JavaSrcript Developer from Mexico 🇲🇽 who loves to learn and share in
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/matlab.svg" width="48" height="48" alt="Matlab" />
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>MATLAB
+      <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -54,10 +48,28 @@ I'm a JavaSrcript Developer from Mexico 🇲🇽 who loves to learn and share in
       <br>Angular
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/nodejs.svg" width="48" height="48" alt="Grafana" />
+      <a href="#macropower-tech">
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>NodeJS
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/matlab.svg" width="48" height="48" alt="Matlab" />
+      </a>
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/graphql.svg" width="48" height="48" alt="GraphQl" />
+      </a>
+      <br>GrapgQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/lua.svg" width="48" height="48" alt="Lua" />
+      </a>
+      <br>Lua
     </td>
   </tr>
 </table>
