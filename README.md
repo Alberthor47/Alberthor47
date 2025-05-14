@@ -10,7 +10,7 @@ I'm a Mechatronics Engineer from Mexico 🇲🇽 who loves to learn and share in
 - 🪴 **Plants** lover
 - 📷 **Photography** enthusiast
 - 📫 Reach me at **<alberto@camarena.me>**
-- 💻 Connect with me on **[LinkedIn](www.linkedin.com/in/albertocamarena-dev)**
+- 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/albertocamarena-dev)**
 
 ## Favorite Technologies
 
