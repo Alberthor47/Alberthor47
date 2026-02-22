@@ -1,16 +1,27 @@
 # 👋 Hello there! I'm Alberto Camarena
 
-I'm a Mechatronics Engineer from Mexico 🇲🇽 who loves to learn and share in community.  
+I'm a Mechatronics Engineer from Mexico 🇲🇽 who loves to learn, build, and share with community.  
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-- 🏢 I'm currently working at **[BEGO](https://bego.ai)** and at **[MLH](https://mlh.io)**
+- 🏢 I'm currently a **Sr. Specialist @ [MongoDB](https://www.mongodb.com/)** and a **[MLH](https://mlh.io) Coach**
+- 🌎 Based in **CDMX, Mexico**
 - 💬 I like to talk about **PC or custom Keyboards** and related stuff
 - ☕️ Passionate about **Coffee**
 - 🪴 **Plants** lover
 - 📷 **Photography** enthusiast
 - 📫 Reach me at **<alberto@camarena.me>**
 - 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/albertocamarena-dev)**
+
+## GitHub Stats
+
+- 📦 Public repositories: **71**
+- 👥 Followers: **67**
+- ➡️ Following: **9**
+- 🗓️ On GitHub since **February 2018**
+
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alberthor47&show_icons=true&hide_title=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberthor47&layout=compact)
 
 ## Favorite Technologies
 
