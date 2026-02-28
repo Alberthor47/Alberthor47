@@ -1,73 +1,78 @@
-# 👋 Hello there! I'm Alberto Camarena
+# 👋 Hey, I'm Alberto Camarena
 
-I'm a Mechatronics Engineer from Mexico 🇲🇽 who loves to learn and share in community.  
+Mechatronics Engineer from Mexico 🇲🇽, currently building and supporting developer communities through technology, education, and mentorship.
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-- 🏢 I'm currently working at **[BEGO](https://bego.ai)** and at **[MLH](https://mlh.io)**
-- 💬 I like to talk about **PC or custom Keyboards** and related stuff
-- ☕️ Passionate about **Coffee**
-- 🪴 **Plants** lover
-- 📷 **Photography** enthusiast
-- 📫 Reach me at **<alberto@camarena.me>**
-- 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/albertocamarena-dev)**
+## About me
 
-## Favorite Technologies
+- 🧑‍💻 Sr. Specialist at **[MongoDB](https://www.mongodb.com/)**
+- 🧠 Major League Hacking Coach at **[MLH](https://mlh.io)**
+- 🎓 GitHub Campus Expert Alumni
+- 💬 Always happy to chat about **PCs, custom keyboards, and developer tooling**
+- ☕ Coffee enthusiast | 🪴 Plant lover | 📷 Photography fan
 
-> Tools, languages, and other things that I like to work with.
+## Connect with me
+
+- 📫 **Email:** <alberto@camarena.me>
+- 💻 **LinkedIn:** [albertocamarena-dev](https://www.linkedin.com/in/albertocamarena-dev)
+
+## Favorite technologies
+
+> Tools, languages, and platforms I enjoy working with.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#favorite-technologies">
         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#favorite-technologies">
         <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/nodejs.svg" width="48" height="48" alt="Grafana" />
+      <a href="#favorite-technologies">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br>NodeJS
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-technologies">
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
+    <td align="center" width="96">
+      <a href="#favorite-technologies">
         <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#favorite-technologies">
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/matlab.svg" width="48" height="48" alt="Matlab" />
+      <a href="#favorite-technologies">
+        <img src="./img/matlab.svg" width="48" height="48" alt="MATLAB" />
       </a>
       <br>MATLAB
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/graphql.svg" width="48" height="48" alt="GraphQl" />
+      <a href="#favorite-technologies">
+        <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
       </a>
-      <br>GrapgQL
+      <br>GraphQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#favorite-technologies">
         <img src="./img/lua.svg" width="48" height="48" alt="Lua" />
       </a>
       <br>Lua
@@ -75,4 +80,4 @@ I'm a Mechatronics Engineer from Mexico 🇲🇽 who loves to learn and share in
   </tr>
 </table>
 
-<!-- In the future I'll like to add more of the non dev stuff like 3d printing, modeling, etc. -->
+<!-- In the future, I'd like to add more non-dev projects like 3D printing and modeling. -->
